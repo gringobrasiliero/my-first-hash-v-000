@@ -26,5 +26,5 @@ def adding
 
   #your code here
   #remember to return the shipping_manifest hash
-
+shipping_manifest["flags"]= 1
 end
